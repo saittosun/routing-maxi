@@ -18,6 +18,10 @@ export class UsersComponent {
     {
       id: 3,
       name: 'Chris'
+    },
+    {
+      id: 4,
+      name: 'sait'
     }
   ];
 }
